@@ -4,3 +4,4 @@ syntax on
 filetype plugin indent on
 let mapleader = ','
 nnoremap <silent> <Leader>f :CommandT<CR>
+map <C-n> :NERDTreeToggle<CR>
